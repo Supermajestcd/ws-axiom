@@ -193,7 +193,7 @@
     <contributors>
         <contributor>
             <name>Dharshana Dias</name>
-            <email />
+            <email/>
             <organization>Lanka Software Foundation / University of Moratuwa</organization>
         </contributor>
         <contributor>
@@ -203,7 +203,7 @@
         </contributor>
         <contributor>
             <name>Chinthaka Thilakarathne</name>
-            <email />
+            <email/>
             <organization>Lanka Software Foundation / University of Moratuwa</organization>
         </contributor>
         <contributor>
@@ -356,7 +356,7 @@
             <dependency>
                 <groupId>commons-io</groupId>
                 <artifactId>commons-io</artifactId>
-                <version>2.11.0</version>
+                <version>20030203.000550</version>
             </dependency>
             <dependency>
                 <groupId>org.codehaus.woodstox</groupId>
@@ -799,7 +799,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -812,7 +812,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -825,7 +825,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -840,7 +840,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                             </pluginExecutions>
@@ -967,7 +967,7 @@
                                 <script>
                                     import java.io.File
                                     
-                                    if (new File(project.build.directory, 'tmp').listFiles().length &gt; 0) {
+                                    if (new File(project.build.directory, 'tmp').listFiles().length > 0) {
                                         throw new Error("Temporary directory not empty");
                                     }
                                 </script>
