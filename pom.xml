@@ -193,7 +193,7 @@
     <contributors>
         <contributor>
             <name>Dharshana Dias</name>
-            <email />
+            <email/>
             <organization>Lanka Software Foundation / University of Moratuwa</organization>
         </contributor>
         <contributor>
@@ -203,7 +203,7 @@
         </contributor>
         <contributor>
             <name>Chinthaka Thilakarathne</name>
-            <email />
+            <email/>
             <organization>Lanka Software Foundation / University of Moratuwa</organization>
         </contributor>
         <contributor>
@@ -279,7 +279,7 @@
             <dependency>
                 <groupId>com.sun.mail</groupId>
                 <artifactId>jakarta.mail</artifactId>
-                <version>1.6.7</version>
+                <version>1.6.8</version>
             </dependency>
             <dependency>
                 <groupId>commons-logging</groupId>
@@ -799,7 +799,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -812,7 +812,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -825,7 +825,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -840,7 +840,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                             </pluginExecutions>
